@@ -16,12 +16,11 @@
 ## Assignments:
 
 ### Week 1: Iterables in Java
-[Exercise 1: Batch Grayscale]
-
-[Exercise 2: Image Inversion]
+Exercise 1: Batch Grayscale</br>
+Exercise 2: Image Inversion
 
 ### Week 2: Strings in Java
-[Exercise 3: Finding a Gene]
+Exercise 3: Finding a Gene
 [Exercise 4: Finding Web Links](https://github.com/gizeton/Duke-Java-Programming-Solving-Problems-with-Software/blob/master/root/Exercise_4/Finding%20Web%20Links.java) </br>
 [Exercise 5: Finding All Genes](https://github.com/gizeton/Duke-Java-Programming-Solving-Problems-with-Software/blob/master/root/Exercise_5/Finding%20All%20Genes.java) </br>
 [Exercise 6: Storing All Genes / Processing DNA Strings](https://github.com/gizeton/Duke-Java-Programming-Solving-Problems-with-Software/blob/master/root/Exercise_6/Storing%20All%20Genes.java) </br>
