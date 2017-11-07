@@ -15,21 +15,21 @@
 
 ## Assignments:
 
-## Week 1: Iterables in Java
+### Week 1: Iterables in Java
 Exercise 1: Batch Grayscale</br>
 Exercise 2: Image Inversion</br>
 
-## Week 2: Strings in Java
+### Week 2: Strings in Java
 Exercise 3: Finding a Gene</br>
 Exercise 4: Finding Web Links</br>
 Exercise 5: Finding All Genes</br>
 Exercise 6: Storing All Genes / Processing DNA Strings</br>
 Exercise 7: Find All URLs</br>
 
-## Week 3: CSV Files and Basic Statistics in Java
+### Week 3: CSV Files and Basic Statistics in Java
 Exercise 8: Parsing Export Data</br>
 Exercise 9: Parsing Weather Data]</br>
 
-## Week 4: MiniProject: Baby Names</br>
+### Week 4: MiniProject: Baby Names</br>
 
 
