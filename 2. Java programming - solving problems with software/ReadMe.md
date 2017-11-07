@@ -17,6 +17,7 @@
 
 ### Week 1: Iterables in Java
 [Exercise 1: Batch Grayscale]
+
 [Exercise 2: Image Inversion]
 
 ### Week 2: Strings in Java
